@@ -1,0 +1,14 @@
+### Explain the scenario like when to go with manual testing and automation testing
+# Manual Testing:
+Manual testing is best when human thinking is needed. It is useful for checking user experience, new UI changes, and finding unexpected bugs. 
+It is good for small or short-term tasks and one-time features because it does not need much setup.
+Best for: Usability, exploratory testing, and quick ad-hoc bug checks.
+Speed: Slower when the same test is repeated many times.
+Accuracy: Can have human mistakes.
+
+# Automation Testing:
+Automation testing is best for repeated work. It is useful for regression testing, large test cases, and testing many times after code changes. 
+It saves time and effort for long-term projects and big applications.
+Best for: Regression testing, load testing, and repeated browser tests
+Speed: Very fast when testing at large scale.
+Accuracy: More consistent and reliable.
